@@ -1,7 +1,7 @@
 # Requirements.txt
 
 Flask
-Flask_Restful
-Flask_jsonify
+request
+jsonify
 SQLAlchemy
 
