@@ -4,4 +4,4 @@ Flask
 request
 jsonify
 SQLAlchemy
-
+flask_sqlalchemy
