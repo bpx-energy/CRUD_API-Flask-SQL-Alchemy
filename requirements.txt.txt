@@ -1,0 +1,7 @@
+# Requirements.txt
+
+Flask
+Flask_Restful
+Flask_jsonify
+SQLAlchemy
+
